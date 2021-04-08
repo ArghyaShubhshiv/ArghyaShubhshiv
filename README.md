@@ -1,6 +1,6 @@
 ## Hello! 
 
-I'm Arghya, a student in class 9th in Delhi Public School, Noida.
+I'm Arghya, a student in class 10th in Delhi Public School, Noida.
 
 [![Gmail Badge](https://img.shields.io/badge/-arghya.shubhshiv.3.14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arghya.shubhshiv.3.14@gmail.com)](mailto:arghya.shubhshiv.3.14@gmail.com)
 
